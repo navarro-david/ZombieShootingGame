@@ -1,0 +1,8 @@
+
+
+public enum GameState {
+
+	TITLE_SCREEN,GAME_SCREEN,SCORE_SCREEN,TUTORIAL,PAUSED
+
+
+}
